@@ -1,5 +1,8 @@
 # 3D-Object-Detection-and-Recognition
 
+[![python-image]][python-url]
+[![pytorch-image]][pytorch-url]
+
 > A general 3D object detection approach in Python.
 
 ---
