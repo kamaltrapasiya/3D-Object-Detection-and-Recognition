@@ -5,7 +5,7 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+Following sections will ease your work to navigate to any section.
 
 - [Introduction](#introduction)
 - [Description](#description)
