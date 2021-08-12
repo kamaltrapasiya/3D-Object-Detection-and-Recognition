@@ -24,7 +24,7 @@ Object detection and recogntion is a demanding application in the area of machin
 
 This project is using a 3D object detection approach without the prerequisite for particular operating system or Graphics Processing Unit (GPU) in hand. As we know that 3D data offers well founded depth information to locate or detect any object accurately. These days, Point cloud representation is more favourable, as it can preserve the original depth information in 3D space without lossing any precious information. To add to it, point clouds representation is also convenient to be transformed to other file formats. A project is using a open-source Kaolin PyTorch framework to detect the objects accurately using 3D models. This framework is very approachable in loading and processing 3D datasets. 
 
-In the project, a model is trained using ModelNet10 datasets including total 10 3D object categories to train high quality deep network. A model is traned using a graph convolutional network. A complete project is implemented by following total five stages including data loading, data pre-processing, training, evaluating and testing.
+In the project, a model is trained using ModelNet10 datasets including total 10 3D object categories to train high quality deep network. A model is traned using a graph convolutional network. A complete project is implemented by following total five stages including data loading, data pre-processing, training, evaluating and testing. A project has used the follwoing technologies to implement an excellent object detection application in order to evaluate the real-world significant problems.
 
 #### Technologies
 
