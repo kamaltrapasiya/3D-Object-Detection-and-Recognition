@@ -7,7 +7,7 @@
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [Introduction](#description)
+- [Introduction](#introduction)
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
@@ -18,11 +18,11 @@ You're sections headers will be used to reference location of destination.
 
 ## Introduction
 
-Object detection and recogntion is a demanding application in the area of machine learning and computer vision. Object detection using 3D techniques have beneficial impacts to mitigate real-world applications such as robotics, self-driving cars, security and many more.  There are several 3D object detection algorithms available to implement accurate object detection system to accomplish real-time delicate tasks. Nowadays, object detection using LiDAR point clouds or 3D representation of data has become neccesary to avoid imprecision in complex or unstructued scenes. This project is implemented to achive high accurate results in detecting objects using Graph Convolutional Neural Networks and 3D point clouds.
+Object detection and recogntion is a demanding application in the area of machine learning and computer vision. Object detection using 3D techniques have beneficial impacts to mitigate real-world applications such as robotics, self-driving cars, security and many more.  There are several 3D object detection algorithms available to implement accurate object detection system to accomplish real-time delicate tasks. Nowadays, object detection using LiDAR point clouds or 3D representation of data has become neccesary to avoid imprecision in complex or unstructued scenes. This project is implemented to achive high accurate results in detecting objects using Graph Convolutional Neural Networks and 3D representation of data.
 
 ## Description
 
-
+This project is using a 3D object detection approach without the prerequisite for particular operating system or Graphics Processing Unit (GPU) in hand. As we know that 3D data offers well founded depth information to locate or detect any object accurately. These days, Point cloud representation is more favourable, as it can preserve the original depth information in 3D space without lossing any precious information. To add to it, point clouds representation is also convenient to be transformed to other file formats. A project is using a open-source Kaolin PyTorch framework to detect the objects accurately using 3D models. This framework is very approachable in loading and processing 3D datasets. In the project, a model is trained using ModelNet10 datasets including total 10 3D object categories to train high quality deep network. A model is traned using a graph convolutional network. A complete project is implemented by following total five stages including data loading, data pre-processing, training, evaluating and testing.
 
 #### Technologies
 
