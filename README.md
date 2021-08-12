@@ -94,7 +94,7 @@ SOFTWARE.
 [Back To The Top](#read-me-template)
 
 
-[python-image]: https://img.shields.io/github/pipenv/locked/python-version/kamaltrapasiya/3d-object-detection-and-recognition
+[python-image]: https://img.shields.io/badge/Python-3.6-ff69b4.svg
 [python-url]: https://www.python.org/
 [pytorch-image]: https://img.shields.io/badge/PyTorch-1.5-2BAF2B.svg
 [pytorch-url]: https://pytorch.org/
