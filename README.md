@@ -1,6 +1,6 @@
 # 3D-Object-Detection-and-Recognition
 
-> This is a ReadMe template to help save you time and effort.
+> A general 3D object detection approach in Python.
 
 ---
 
