@@ -1,6 +1,6 @@
 # 3D-Object-Detection-and-Recognition
 
-<a href="https://docs.python.org/3/library/io.html"><img src="https://img.shields.io/badge/python-grey?style=flat&logo=python&labelColor=green"></a>
+<a href="https://docs.python.org/3/library/io.html"><img src="https://img.shields.io/badge/python-grey?style=flat&logo=python&labelColor=grey"></a>
 
 > A general 3D object detection approach in Python.
 
