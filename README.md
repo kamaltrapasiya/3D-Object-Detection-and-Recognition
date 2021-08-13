@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-v3.7-blue)
 <a href="https://docs.python.org/3/library/os.html"><img src="https://img.shields.io/badge/os-orange?style=flat&logo=os"></a>
 <a href="https://trimsh.org/trimesh.html"><img src="https://img.shields.io/badge/trimesh-darkblue?style=flat&logo=os"></a>
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-skyblue?style=flat&logo=numpy&labelColor=skyblue"></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-skyblue?style=flat&logo=numpy&labelColor=yellogreen"></a>
 
 > A general 3D object detection approach in Python.
 
