@@ -22,6 +22,7 @@ Following sections will ease your work to navigate to any section.
 
 - [Introduction](#introduction)
 - [Description](#description)
+- [Motivation](#motivation)
 - [How To Use](#how-to-use)
 - [References](#references)
 - [License](#license)
@@ -45,7 +46,17 @@ These days, object detection and recognization is a challenging and difficult ta
 
 ---
 
-## How To Use
+## Dependencies
+
+In order to use this project, you need to have installed the following dependencies :
+
+* Trimesh
+* Numpy
+* Matplotlib
+* Tensorflow
+* Tqdm
+* Torch
+* Kaolin
 
 #### Installation
 
