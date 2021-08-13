@@ -28,7 +28,7 @@ In the project, a model is trained using ModelNet10 datasets including total 10 
 
 ## Motivation
 
-These days, object detection and recognization is a challenging and difficult task to achive ideal results in the field of machine learrning and computer vision. So, 2D object detection using traditional techniques of object detection is not efficient to solve real-time problems. 
+These days, object detection and recognization is a challenging and difficult task to achive ideal results in the field of machine learrning and computer vision. So, 2D object detection using traditional techniques of object detection is not efficient to solve real-time problems. So, in order to solve this kinds of numerous issues 3D object detection and recognition has become a primary step in the field of machine learning to innovate different products that endorse human beings to ease their works in smart ways. Behind all the discussions, a real motivation is for me to explore some advanced 3D object detection techniques and to implement this project to achive the highest accuracy using data with 3D representation.
 
 ---
 
