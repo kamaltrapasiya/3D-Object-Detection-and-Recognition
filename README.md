@@ -9,7 +9,7 @@
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/tensorflow-white?style=flat&logo=tensorflow&labelColor=white"></a>
 <a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-darkred?style=flat&logo=keras&labelColor=darkred"></a>
 <a href="https://tqdm.github.io/"><img src="https://img.shields.io/badge/tqdm-purple?style=flat&logo=tqdm&labelColor=purple"></a>
-<a href="https://tqdm.github.io/"><img src="https://img.shields.io/badge/torch-brown?style=flat&logo=pytorch&labelColor=brown"></a>
+<a href="https://tqdm.github.io/"><img src="https://img.shields.io/badge/torch-darkgreen?style=flat&logo=pytorch&labelColor=darkgreen"></a>
 
 > A general 3D object detection approach in Python.
 
