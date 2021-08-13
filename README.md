@@ -78,12 +78,12 @@ pip install matplotlib
 
 **Tensorflow**
 ```bash
-pip install tensorflow==2.4.0
+pip install tensorflow
 ```
 
 or **Tensorflow GPU** if you have NVIDIA GPU with installed CUDA and cuDNN.
 ```bash
-pip install tensorflow-gpu==2.4.0
+pip install tensorflow-gpu
 ```
 
 **Keras**
