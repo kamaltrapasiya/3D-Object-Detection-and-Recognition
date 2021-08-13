@@ -1,5 +1,9 @@
 # 3D-Object-Detection-and-Recognition
 
+<a href="http://ffmpeg.org/"><img src="https://img.shields.io/badge/ffmpeg-green?style=flat&logo=ffmpeg&labelColor=green"></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-darkblue?style=flat&logo=pandas&labelColor=darkblue"></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-skyblue?style=flat&logo=numpy&labelColor=skyblue"></a>
+
 > A general 3D object detection approach in Python.
 
 ---
