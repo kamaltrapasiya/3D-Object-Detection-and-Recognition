@@ -1,8 +1,5 @@
 # 3D-Object-Detection-and-Recognition
 
-[![python-image]][python-url]
-[![pytorch-image]][pytorch-url]
-
 > A general 3D object detection approach in Python.
 
 ---
@@ -29,20 +26,15 @@ This project is using a 3D object detection approach without the prerequisite fo
 
 In the project, a model is trained using ModelNet10 datasets including total 10 3D object categories to train high quality deep network. A model is traned using a graph convolutional network. A complete project is implemented by following total five stages including data loading, data pre-processing, training, evaluating and testing. A project has used the follwoing technologies to implement an excellent object detection application in order to evaluate the real-world significant problems.
 
-#### Technologies
+## Motivation
 
-- Technology 1
-- Technology 2
-
-[Back To The Top](#read-me-template)
+These days, object detection and recognization is a challenging and difficult task to achive ideal results in the field of machine learrning and computer vision. So, 2D object detection using traditional techniques of object detection is not efficient to solve real-time problems. 
 
 ---
 
 ## How To Use
 
 #### Installation
-
-
 
 #### API Reference
 
