@@ -107,7 +107,9 @@ pip install torch
 pip install git+https://github.com/NVIDIAGameWorks/kaolin.git
 ```
 
-#### Open the project
+#### Platform
+
+This project is implemented using Google Colab. If you want to use same platform you can run this project by opening Google Colab
 
 ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
