@@ -1,6 +1,6 @@
 # 3D-Object-Detection-and-Recognition
 
-![Python](https://img.shields.io/github/languages/count/kamaltrapasiya/3D-Object-Detection-and-Recognition)
+![Python](https://img.shields.io/badge/Python-v3.7-brightgreen)
 
 > A general 3D object detection approach in Python.
 
