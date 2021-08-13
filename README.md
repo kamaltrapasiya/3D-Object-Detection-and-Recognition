@@ -10,7 +10,7 @@
 <a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-darkred?style=flat&logo=keras&labelColor=darkred"></a>
 <a href="https://tqdm.github.io/"><img src="https://img.shields.io/badge/tqdm-purple?style=flat&logo=tqdm&labelColor=purple"></a>
 <a href="https://pytorch.org/get-started/locally/"><img src="https://img.shields.io/badge/torch-darkgreen?style=flat&logo=pytorch&labelColor=darkgreen"></a>
-<a href="https://kaolin.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/kaolin-yellow?style=flat&logo=kaolin"></a>
+<a href="https://kaolin.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/kaolin-violet?style=flat&logo=kaolin"></a>
 
 
 > A general 3D object detection approach in Python.
