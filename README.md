@@ -6,7 +6,7 @@
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-yellogreen?style=flat&logo=numpy&labelColor=yellogreen"></a>
 <a href="https://docs.python.org/3/library/glob.html"><img src="https://img.shields.io/badge/glob-skyblue?style=flat&logo=os"></a>
 <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/matplotlib-orange?style=flat&logo=matplotlib"></a>
-<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/tensorflow-lightorange?style=flat&logo=tensorflow&labelColor=lightorange"></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/tensorflow-brown?style=flat&logo=tensorflow&labelColor=brown"></a>
 
 > A general 3D object detection approach in Python.
 
