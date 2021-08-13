@@ -18,7 +18,7 @@
 ---
 
 ### Table of Contents
-Following sections will ease your work to navigate to any section.
+Following sections will help you to navigate to any section.
 
 - [Introduction](#introduction)
 - [Description](#description)
@@ -51,7 +51,7 @@ These days, object detection and recognization is a challenging and difficult ta
 In order to use this project, you need to have installed the following dependencies :
 
 * Trimesh
-* Numpy
+* NumPy
 * Matplotlib
 * Tensorflow
 * Tqdm
@@ -64,10 +64,14 @@ You can install all the mentioned dependencies by running the below commands
 ```bash
 pip install trimesh
 ```
+**NumPy**
+```bash
+pip install numpy
+'''
 
 or **Tensorflow GPU** if you have NVIDIA GPU with CUDA and cuDNN installed.
 ```bash
-pip install tensorflow-gpu==2.4.0
+pip install tensorflow-gpu
 ```
 
 **Other Dependencies**
