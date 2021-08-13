@@ -7,6 +7,7 @@
 <a href="https://docs.python.org/3/library/glob.html"><img src="https://img.shields.io/badge/glob-skyblue?style=flat&logo=os"></a>
 <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/matplotlib-orange?style=flat&logo=matplotlib"></a>
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/tensorflow-white?style=flat&logo=tensorflow&labelColor=white"></a>
+<a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-darkred?style=flat&logo=keras&labelColor=darkred"></a>
 
 > A general 3D object detection approach in Python.
 
