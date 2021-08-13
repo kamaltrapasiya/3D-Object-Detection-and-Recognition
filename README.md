@@ -1,6 +1,6 @@
 # 3D-Object-Detection-and-Recognition
 
-<a href="http://ffmpeg.org/"><img src="https://img.shields.io/badge/python-darkgray?style=flat&logo=python&labelColor=green"></a>
+<a href="http://ffmpeg.org/"><img src="https://img.shields.io/badge/python-darkgrey?style=flat&logo=python&labelColor=green"></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-darkblue?style=flat&logo=pandas&labelColor=darkblue"></a>
 <a href="https://numpy.org/"><img src="https://img.shields.io/badge/numpy-skyblue?style=flat&logo=numpy&labelColor=skyblue"></a>
 
