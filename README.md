@@ -108,7 +108,7 @@ pip install git+https://github.com/NVIDIAGameWorks/kaolin.git
 ```
 ---
 
-#### Platform
+## Platform
 
 This project is implemented using Google Colab. If you want to use same platform you can run this project by opening Google Colab
 
@@ -120,9 +120,6 @@ This project is implemented using Google Colab. If you want to use same platform
     <p>dummy code</p>
 ```
 [Back To The Top](#read-me-template)
-
----
-
 
 ---
 
