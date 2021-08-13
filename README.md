@@ -106,6 +106,7 @@ pip install torch
 ```bash
 pip install git+https://github.com/NVIDIAGameWorks/kaolin.git
 ```
+---
 
 #### Platform
 
