@@ -1,8 +1,5 @@
 # 3D-Object-Detection-and-Recognition
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-
-
 ![Python](https://img.shields.io/badge/python-v3.7-blue)
 <a href="https://docs.python.org/3/library/os.html"><img src="https://img.shields.io/badge/os-orange?style=flat&logo=os"></a>
 <a href="https://trimsh.org/trimesh.html"><img src="https://img.shields.io/badge/trimesh-darkblue?style=flat&logo=os"></a>
@@ -110,7 +107,9 @@ pip install torch
 pip install git+https://github.com/NVIDIAGameWorks/kaolin.git
 ```
 
-#### Installation
+#### Open the project
+
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 #### API Reference
 
