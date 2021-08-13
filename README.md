@@ -1,8 +1,7 @@
 # 3D-Object-Detection-and-Recognition
 
 ![Python](https://img.shields.io/badge/Python-v3.7-brightgreen)
-
-<a href="https://docs.python.org/3/library/os.html"><img src="https://img.shields.io/badge/os-lightyellow?style=flat&logo=os&labelColor=lightyellow"></a>
+<a href="https://docs.python.org/3/library/os.html"><img src="https://img.shields.io/badge/os-lightyellow?style=flat&logo=os&labelColor=green"></a>
 
 > A general 3D object detection approach in Python.
 
