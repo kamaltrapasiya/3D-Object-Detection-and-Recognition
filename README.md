@@ -81,7 +81,7 @@ pip install matplotlib
 pip install tensorflow==2.4.0
 ```
 
-or **Tensorflow GPU** if you have NVIDIA GPU with CUDA and cuDNN installed.
+or **Tensorflow GPU** if you have NVIDIA GPU with installed CUDA and cuDNN.
 ```bash
 pip install tensorflow-gpu==2.4.0
 ```
