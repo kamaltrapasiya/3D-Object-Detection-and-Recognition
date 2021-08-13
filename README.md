@@ -168,9 +168,6 @@ SOFTWARE.
 ### References
  <div id="ref"></div>
 
- 1. Somshubra Majumdar, DenseNet Implementation of the paper, Densely Connected Convolutional Networks in Keras
-[https://github.com/titu1994/DenseNet](https://github.com/titu1994/DenseNet)
- 2. Broad Institute of MIT and Harvard, Keras package for deep residual networks
-[https://github.com/broadinstitute/keras-resnet](https://github.com/broadinstitute/keras-resnet)
- 3. Fizyr, Keras implementation of RetinaNet object detection
-[https://github.com/fizyr/keras-retinanet](https://github.com/fizyr/keras-retinanet)
+ 1. Jatavallabhula, Krishna Murthy, et al. "Kaolin: A pytorch library for accelerating 3d deep learning research." arXiv preprint arXiv:1911.05063 (2019).
+ 2. NVIDIAGameWorks. (n.d.). NVIDIAGameWorks/kaolin: A Pytorch library for Accelerating 3D deep learning research. GitHub. https://github.com/NVIDIAGameWorks/kaolin. 
+ 3. The Trustees of Princeton University. (n.d.). Princeton MODELNET. Princeton University. https://modelnet.cs.princeton.edu/#.
