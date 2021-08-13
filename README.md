@@ -23,6 +23,7 @@ Following sections will help you to navigate to any section.
 - [Introduction](#introduction)
 - [Description](#description)
 - [Motivation](#motivation)
+- [Dependencies](#dependencies)
 - [How To Use](#how-to-use)
 - [References](#references)
 - [License](#license)
