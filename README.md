@@ -163,3 +163,14 @@ SOFTWARE.
 [python-url]: https://www.python.org/
 [pytorch-image]: https://img.shields.io/badge/PyTorch-1.5-2BAF2B.svg
 [pytorch-url]: https://pytorch.org/
+
+
+### References
+ <div id="ref"></div>
+
+ 1. Somshubra Majumdar, DenseNet Implementation of the paper, Densely Connected Convolutional Networks in Keras
+[https://github.com/titu1994/DenseNet](https://github.com/titu1994/DenseNet)
+ 2. Broad Institute of MIT and Harvard, Keras package for deep residual networks
+[https://github.com/broadinstitute/keras-resnet](https://github.com/broadinstitute/keras-resnet)
+ 3. Fizyr, Keras implementation of RetinaNet object detection
+[https://github.com/fizyr/keras-retinanet](https://github.com/fizyr/keras-retinanet)
