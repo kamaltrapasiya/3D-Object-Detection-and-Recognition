@@ -8,6 +8,7 @@
 <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/matplotlib-orange?style=flat&logo=matplotlib"></a>
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/tensorflow-white?style=flat&logo=tensorflow&labelColor=white"></a>
 <a href="https://keras.io/"><img src="https://img.shields.io/badge/keras-darkred?style=flat&logo=keras&labelColor=darkred"></a>
+<a href="https://tqdm.github.io/"><img src="https://img.shields.io/badge/tqdm-orange?style=flat&logo=tensorflow&labelColor=orange"></a>
 
 > A general 3D object detection approach in Python.
 
