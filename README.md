@@ -112,7 +112,7 @@ pip install git+https://github.com/NVIDIAGameWorks/kaolin.git
 
 This project is implemented using Google Colab. If you want to use this project with Google Colab, you can directly open from below.
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
 #### API Reference
 
