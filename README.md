@@ -24,10 +24,11 @@ Following sections will help you to navigate to any section.
 - [Description](#description)
 - [Motivation](#motivation)
 - [Dependencies](#dependencies)
-- [How To Use](#how-to-use)
-- [References](#references)
+- [Platform](#platform)
 - [License](#license)
-- [Author Info](#author-info)
+- [References](#references)
+
+
 
 ---
 
