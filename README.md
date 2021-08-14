@@ -147,22 +147,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
 ---
-
-## Author Info
-
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
-
-[Back To The Top](#read-me-template)
-
-
-[python-image]: https://img.shields.io/badge/Python-3.6-ff69b4.svg
-[python-url]: https://www.python.org/
-[pytorch-image]: https://img.shields.io/badge/PyTorch-1.5-2BAF2B.svg
-[pytorch-url]: https://pytorch.org/
-
 
 ### References
  <div id="ref"></div>
@@ -170,3 +155,10 @@ SOFTWARE.
  1. Jatavallabhula, Krishna Murthy, et al. "Kaolin: A pytorch library for accelerating 3d deep learning research." arXiv preprint arXiv:1911.05063 (2019).
  2. NVIDIAGameWorks. (n.d.). NVIDIAGameWorks/kaolin: A Pytorch library for Accelerating 3D deep learning research. GitHub. https://github.com/NVIDIAGameWorks/kaolin. 
  3. The Trustees of Princeton University. (n.d.). Princeton MODELNET. Princeton University. https://modelnet.cs.princeton.edu/#.
+
+
+[python-image]: https://img.shields.io/badge/Python-3.6-ff69b4.svg
+[python-url]: https://www.python.org/
+[pytorch-image]: https://img.shields.io/badge/PyTorch-1.5-2BAF2B.svg
+[pytorch-url]: https://pytorch.org/
+
