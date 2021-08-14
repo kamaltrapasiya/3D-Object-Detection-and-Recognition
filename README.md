@@ -119,9 +119,12 @@ This project is implemented using Google Colab. If you want to use this project 
 
 ## Dataset
 
-In this project, a proposed method of object detection is implemented using a ModelNet dataset. This  exceptional  dataset  offers two kinds of datasets including ModelNet10 and ModelNet40. A ModelNet10 dataset is containing total 10 categories of CAD models to train the deep neural network, and a ModelNet40 dataset consists of total 40 categories of CAD models to train the deep neural network. This project is utilizing the ModelNet10 dataset to speed up the performance in the training  process to come up with the solution in a less amount of time. Morever, training and testing data is already split in the ModelNet dataset, so we do not need to split the data for training and testing by  utilizing  split methods. A ModelNet10 dataset containes 10 categories, namely toilet, sofa, table, dresser, monitor, night stand, desk, bed, chair and bath tub. A ModelNet dataset consists of object files with object file format (OFF) that provides the information about geometry architecture of the object.
+In this project, a proposed method of object detection is implemented using a ModelNet dataset. This  exceptional  dataset  offers two kinds of datasets including ModelNet10 and ModelNet40. A ModelNet10 dataset is containing total 10 categories of CAD models to train the deep neural network, and a ModelNet40 dataset consists of total 40 categories of CAD models to train the deep neural network. This project is utilizing the ModelNet10 dataset to speed up the performance in the training  process to come up with the solution in a less amount of time. Morever, training and testing data is already split in the ModelNet dataset, so we do not need to split the data for training and testing by utilizing split methods. A ModelNet10 dataset containes 10 categories, namely toilet, sofa, table, dresser, monitor, night stand, desk, bed, chair and bath tub. A ModelNet dataset consists of object files with object file format (OFF) that provides the information about geometry architecture of the object.
 
-<script src="https://embed.github.com/view/3d/<username>/<repo>/<ref>/<path_to_file>"></script>
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<!-- Use it like any other HTML element -->
+<model-viewer src="shared-assets/models/Astronaut.glb" alt="A 3D model of an astronaut" ar ar-modes="webxr scene-viewer quick-look" environment-image="neutral" auto-rotate camera-controls></model-viewer>
 
 ---
 
