@@ -115,13 +115,6 @@ This project is implemented using Google Colab. If you want to use this project 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kamaltrapasiya/3D-Object-Detection-and-Recognition/blob/add-license-1/3D%20Object%20Detection.ipynb)
 
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#read-me-template)
-
 ---
 
 ## License
