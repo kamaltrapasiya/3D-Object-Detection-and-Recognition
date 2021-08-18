@@ -134,6 +134,17 @@ This project is implemented using a Kaolin framework which is an open-source PyT
 
 ---
 
+## Graph Convolutional Networks
+
+In this project, a model is trained using a graph convolutional network. Graph Convolutional Networks (GCNs) are the effective variant of the convolutional neural networks on graphs. Graph Convolutional Networks (GCNs) learn a new feature representation by considering neighboring nodes for the multifarious features as similar as convolutional neural networks. Following figure represents the architecture of the Graph Convolutional Networks (GCNs).
+
+![graph](https://user-images.githubusercontent.com/37270872/129837495-9965ddff-a739-40fb-8722-1d0e80153606.png)
+
+In graph convolutional networks, input neurons with a set of weights are multiplied, and it is also called kernels or filters. Kernels or filters proceed as a sliding window within the image and authorize convolutional neural networks to learn the different features from the neighboring nodes. A primary benefit of applying graph convolutional networks is that class labels are organized perfectly in the graph structure to understand the neural network easily.
+
+
+---
+
 ## License
 
 MIT License
@@ -169,6 +180,8 @@ SOFTWARE.
  4. The Trustees of Princeton University. (n.d.). Princeton MODELNET. Princeton University. https://modelnet.cs.princeton.edu/#.
  5. NVIDIAGameWorks. (n.d.). NVIDIAGameWorks/kaolin: A Pytorch library for Accelerating 3D deep learning research. GitHub. https://github.com/NVIDIAGameWorks/kaolin.
  6. Jatavallabhula, Krishna Murthy, et al. "Kaolin: A pytorch library for accelerating 3d deep learning research." arXiv preprint arXiv:1911.05063 (2019).
+ 7. Zhang, S., Tong, H., Xu, J. et al. Graph convolutional networks: a comprehensive review. Comput Soc Netw 6, 11 (2019). https://doi.org/10.1186/s40649-019-0069-y
+ 8. Mayachita, I. (2020, August 18). Understanding graph convolutional networks for node classification. Medium. https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b.
 
 
 [python-image]: https://img.shields.io/badge/Python-3.6-ff69b4.svg
