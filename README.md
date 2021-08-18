@@ -36,6 +36,11 @@ Following sections will help you to navigate to any section.
 
 Object detection and recogntion is a demanding application in the area of machine learning and computer vision. Object detection using 3D techniques have beneficial impacts to mitigate real-world applications such as robotics, self-driving cars, security and many more.  There are several 3D object detection algorithms available to implement accurate object detection system to accomplish real-time delicate tasks. Nowadays, object detection using LiDAR point clouds or 3D representation of data has become neccesary to avoid imprecision in complex or unstructued scenes. This project is implemented to achive high accurate results in detecting objects using Graph Convolutional Neural Networks and 3D representation of data.
 
+![flow](https://user-images.githubusercontent.com/37270872/129836235-811974e7-1167-459f-942b-e5676fd76fc3.png)
+
+As we can see, above figure depicts the working flow of general object detection and recognition process. According to this figure, image features are generated while training the training images, and all images are labelled to classify further. After that in the testing phase, from the digital images or videos, image
+features are extracted and classified to predict the object.
+
 ## Description
 
 This project is using a 3D object detection approach without the prerequisite for particular operating system or Graphics Processing Unit (GPU) in hand. As we know that 3D data offers well founded depth information to locate or detect any object accurately. These days, Point cloud representation is more favourable, as it can preserve the original depth information in 3D space without lossing any precious information. To add to it, point clouds representation is also convenient to be transformed to other file formats. A project is using a open-source Kaolin PyTorch framework to detect the objects accurately using 3D models. This framework is very approachable in loading and processing 3D datasets. 
@@ -152,9 +157,10 @@ SOFTWARE.
 ### References
  <div id="ref"></div>
 
- 1. Jatavallabhula, Krishna Murthy, et al. "Kaolin: A pytorch library for accelerating 3d deep learning research." arXiv preprint arXiv:1911.05063 (2019).
- 2. NVIDIAGameWorks. (n.d.). NVIDIAGameWorks/kaolin: A Pytorch library for Accelerating 3D deep learning research. GitHub. https://github.com/NVIDIAGameWorks/kaolin. 
- 3. The Trustees of Princeton University. (n.d.). Princeton MODELNET. Princeton University. https://modelnet.cs.princeton.edu/#.
+ 1. Stanford artificial Intelligence Laboratory. (n.d.). https://ai.stanford.edu/~syyeung/cvweb/tutorial4.html.
+ 2. Jatavallabhula, Krishna Murthy, et al. "Kaolin: A pytorch library for accelerating 3d deep learning research." arXiv preprint arXiv:1911.05063 (2019).
+ 3. NVIDIAGameWorks. (n.d.). NVIDIAGameWorks/kaolin: A Pytorch library for Accelerating 3D deep learning research. GitHub. https://github.com/NVIDIAGameWorks/kaolin. 
+ 4. The Trustees of Princeton University. (n.d.). Princeton MODELNET. Princeton University. https://modelnet.cs.princeton.edu/#.
 
 
 [python-image]: https://img.shields.io/badge/Python-3.6-ff69b4.svg
