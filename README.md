@@ -128,6 +128,12 @@ In this project, a proposed method of object detection is implemented using a Mo
 
 ---
 
+## Kaolin: A PyTorch Framework
+
+This project is implemented using a Kaolin framework which is an open-source PyTorch library developed by NVIDIA following the 3D deep learning approach. Kaolin provides very convenient ways to load and preprocess the dataset without any issue. A Kaolin framework offers numerous built-in algorithms and techniques to ease our work in the application of object detection and recognition in the field of machine learning and computer vision. A primary goal of the Kaolin is to provide several easy-to-use tools in constructing 3D deep learning architectures.
+
+---
+
 ## License
 
 MIT License
@@ -161,6 +167,8 @@ SOFTWARE.
  2. Jatavallabhula, Krishna Murthy, et al. "Kaolin: A pytorch library for accelerating 3d deep learning research." arXiv preprint arXiv:1911.05063 (2019).
  3. NVIDIAGameWorks. (n.d.). NVIDIAGameWorks/kaolin: A Pytorch library for Accelerating 3D deep learning research. GitHub. https://github.com/NVIDIAGameWorks/kaolin. 
  4. The Trustees of Princeton University. (n.d.). Princeton MODELNET. Princeton University. https://modelnet.cs.princeton.edu/#.
+ 5. NVIDIAGameWorks. (n.d.). NVIDIAGameWorks/kaolin: A Pytorch library for Accelerating 3D deep learning research. GitHub. https://github.com/NVIDIAGameWorks/kaolin.
+ 6. Jatavallabhula, Krishna Murthy, et al. "Kaolin: A pytorch library for accelerating 3d deep learning research." arXiv preprint arXiv:1911.05063 (2019).
 
 
 [python-image]: https://img.shields.io/badge/Python-3.6-ff69b4.svg
