@@ -37,22 +37,22 @@ Following sections will help you to navigate to any section.
 
 ## Introduction
 
-Object detection and recogntion is a demanding application in the area of machine learning and computer vision. Object detection using 3D techniques have beneficial impacts to mitigate real-world applications such as robotics, self-driving cars, security and many more.  There are several 3D object detection algorithms available to implement accurate object detection system to accomplish real-time delicate tasks. Nowadays, object detection using LiDAR point clouds or 3D representation of data has become neccesary to avoid imprecision in complex or unstructued scenes. This project is implemented to achive high accurate results in detecting objects using Graph Convolutional Neural Networks and 3D representation of data.
+Object detection and recognition is a demanding application in the area of machine learning and computer vision. Object detection using 3D techniques have beneficial impacts to mitigate real-world applications such as robotics, self-driving cars, security and many more.  There are several 3D object detection algorithms available to implement accurate object detection systems to accomplish real-time delicate tasks. Nowadays, object detection using LiDAR point clouds or 3D representation of data has become necessary to avoid imprecision in complex or unstructured scenes. This project is implemented to achieve high accurate results in detecting objects using Graph Convolutional Neural Networks and 3D representation of data.
 
 ![flow](https://user-images.githubusercontent.com/37270872/129836235-811974e7-1167-459f-942b-e5676fd76fc3.png)
 
-As we can see, above figure depicts the working flow of general object detection and recognition process. According to this figure, image features are generated while training the training images, and all images are labelled to classify further. After that in the testing phase, from the digital images or videos, image
-features are extracted and classified to predict the object.
+As we can see, the above figure depicts the working flow of general object detection and recognition processes. According to this figure, image features are generated while training the training images, and all images are labelled to classify further. After that in the testing phase, from the digital images or videos, image features are extracted and classified to predict the object.
 
 ## Description
 
-This project is using a 3D object detection approach without the prerequisite for particular operating system or Graphics Processing Unit (GPU) in hand. As we know that 3D data offers well founded depth information to locate or detect any object accurately. These days, Point cloud representation is more favourable, as it can preserve the original depth information in 3D space without lossing any precious information. To add to it, point clouds representation is also convenient to be transformed to other file formats. A project is using a open-source Kaolin PyTorch framework to detect the objects accurately using 3D models. This framework is very approachable in loading and processing 3D datasets. 
+This project is using a 3D object detection approach without the prerequisite for a particular operating system or Graphics Processing Unit (GPU) in hand. As we know that 3D data offers well founded depth information to locate or detect any object accurately. These days, Point cloud representation is more favourable, as it can preserve the original depth information in 3D space without losing any precious information. To add to it, point cloud representation is also convenient to be transformed to other file formats. A project is using an open-source Kaolin PyTorch framework to detect the objects accurately using 3D models. This framework is very approachable in loading and processing 3D datasets. 
 
-In the project, a model is trained using ModelNet10 datasets including total 10 3D object categories to train high quality deep network. A model is traned using a graph convolutional network. A complete project is implemented by following total five stages including data loading, data pre-processing, training, evaluating and testing. A project has used the follwoing technologies to implement an excellent object detection application in order to evaluate the real-world significant problems.
+In the project, a model is trained using ModelNet10 datasets including total 10 3D object categories to train high quality deep networks. A model is trained using a graph convolutional network. A complete project is implemented by following a total five stages including data loading, data pre-processing, training, evaluating and testing. A project has used the following technologies to implement an excellent object detection application in order to evaluate the real-world significant problems.
+
 
 ## Motivation
 
-These days, object detection and recognization is a challenging and difficult task to achive ideal results in the field of machine learrning and computer vision. So, 2D object detection using traditional techniques of object detection is not efficient to solve real-time problems. So, in order to solve this kinds of numerous issues 3D object detection and recognition has become a primary step in the field of machine learning to innovate different products that endorse human beings to ease their works in smart ways. Behind all the discussions, a real motivation is for me to explore some advanced 3D object detection techniques and to implement this project to achive the highest accuracy using data with 3D representation.
+These days, object detection and recognition is a challenging and difficult task to achieve ideal results in the field of machine learning and computer vision. So, 2D object detection using traditional techniques of object detection is not efficient to solve real-time problems. So, in order to solve these kinds of issues, 3D object detection and recognition has become a primary step in the field of machine learning to innovate different products that endorse human beings to ease their work in smart ways. Behind all the discussions, a real motivation is for me to explore some advanced 3D object detection techniques and to implement this project to achieve the highest accuracy using data with 3D representation.
 
 ---
 
@@ -119,7 +119,7 @@ pip install git+https://github.com/NVIDIAGameWorks/kaolin.git
 
 ## Platform
 
-This project is implemented using Google Colab. If you want to use this project with Google Colab, you can directly open from below.
+This project is implemented using Google Colab. If you want to use this project with Google Colab, you can directly open it from below.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kamaltrapasiya/3D-Object-Detection-and-Recognition/blob/add-license-1/3D%20Object%20Detection.ipynb)
 
@@ -127,7 +127,7 @@ This project is implemented using Google Colab. If you want to use this project 
 
 ## Dataset
 
-In this project, a proposed method of object detection is implemented using a ModelNet dataset. This  exceptional  dataset  offers two kinds of datasets including ModelNet10 and ModelNet40. A ModelNet10 dataset is containing total 10 categories of CAD models to train the deep neural network, and a ModelNet40 dataset consists of total 40 categories of CAD models to train the deep neural network. This project is utilizing the ModelNet10 dataset to speed up the performance in the training  process to come up with the solution in a less amount of time. Morever, training and testing data is already split in the ModelNet dataset, so we do not need to split the data for training and testing by utilizing split methods. A ModelNet10 dataset containes 10 categories, namely toilet, sofa, table, dresser, monitor, night stand, desk, bed, chair and bath tub. A ModelNet dataset consists of object files with object file format (OFF) that provides the information about geometry architecture of the object.
+In this project, a proposed method of object detection is implemented using a ModelNet dataset. This  exceptional  dataset  offers two kinds of datasets including ModelNet10 and ModelNet40. A ModelNet10 dataset contains a total 10 categories of CAD models to train the deep neural network, and a ModelNet40 dataset consists of a total 40 categories of CAD models to train the deep neural network. This project is utilizing the ModelNet10 dataset to speed up the performance in the training  process to come up with the solution in a less amount of time. Moreover, training and testing data is already split in the ModelNet dataset, so we do not need to split the data for training and testing by utilizing split methods. A ModelNet10 dataset contains 10 categories, namely toilet, sofa, table, dresser, monitor, night stand, desk, bed, chair and bath tub. A ModelNet dataset consists of object files with object file format (OFF) that provides the information about geometry architecture of the object.
 
 ---
 
@@ -149,7 +149,7 @@ In graph convolutional networks, input neurons with a set of weights are multipl
 
 ## Results
 
-I have experimented with various 3D methods and techniques, but a proposed technique has achieved exceptional results in detecting 3D objects. A traning process of the model has consumed around 20-25 minutes, as model will work for only 10 objects with providng the highest accuracy. Surprisingly, the trained model has provided around 93.34% accuracy in detecting 3D objects in testing phase. Moreover, I have scheduled and tried experiments several time, and I came to know that I was able to detect 30 objects out of 32 objects perfectly. So, I have achieved an expected result in the object detection process by employing the graph convolutional neural network.
+I have experimented with various 3D methods and techniques, but a proposed technique has achieved exceptional results in detecting 3D objects. A training process of the model has consumed around 20-25 minutes, as the model will work for only 10 objects with providing the highest accuracy. Surprisingly, the trained model has provided around 93.34% accuracy in detecting 3D objects in the testing phase. Moreover, I have scheduled and tried experiments several times, and I came to know that I was able to detect 30 objects out of 32 objects perfectly. So, I have achieved an expected result in the object detection process by employing the graph convolutional neural network.
 
 ![72wZ](https://user-images.githubusercontent.com/37270872/130000081-f34349fc-3a10-4fc3-878e-c6b385ca725c.gif)
 
