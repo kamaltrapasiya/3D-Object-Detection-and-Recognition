@@ -13,7 +13,7 @@
 <a href="https://kaolin.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/kaolin-violet?style=flat&logo=kaolin"></a>
 
 
-> A general 3D object detection approach in Python.
+> A general 3D object detection approach in Python
 
 ---
 
