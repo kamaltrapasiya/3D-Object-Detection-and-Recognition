@@ -26,7 +26,7 @@ Following sections will help you to navigate to any section.
 - [Dependencies](#dependencies)
 - [Platform](#platform)
 - [Dataset](#dataset)
-- [Kaolin: A PyTorch Framework](#Kaolin:-A-PyTorch-Framework)
+- [Kaolin: A PyTorch Framework](#Kaolin-A-PyTorch-Framework)
 - [Graph Convolutional Networks](#Graph-Convolutional-Networks)
 - [Results](#results)
 - [Support](#support)
