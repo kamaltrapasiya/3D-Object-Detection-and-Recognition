@@ -142,6 +142,28 @@ In this project, a model is trained using a graph convolutional network. Graph C
 
 In graph convolutional networks, input neurons with a set of weights are multiplied, and it is also called kernels or filters. Kernels or filters proceed as a sliding window within the image and authorize convolutional neural networks to learn the different features from the neighboring nodes. A primary benefit of applying graph convolutional networks is that class labels are organized perfectly in the graph structure to understand the neural network easily.
 
+---
+
+## Results
+
+I have experimented with various 3D methods and techniques, but a proposed technique has achieved exceptional results in detecting 3D objects. A traning process of the model has consumed around 20-25 minutes, as model will work for only 10 objects with providng the highest accuracy. Surprisingly, the trained model has provided around 93.34% accuracy in detecting 3D objects in testing phase. Moreover, I have scheduled and tried experiments several time, and I came to know that I was able to detect 30 objects out of 32 objects perfectly. So, I have achieved an expected result in the object detection process by employing the graph convolutional neural network.
+
+![72wZ](https://user-images.githubusercontent.com/37270872/130000081-f34349fc-3a10-4fc3-878e-c6b385ca725c.gif)
+
+
+---
+
+## Support
+
+![twitter](https://img.shields.io/twitter/follow/kamaltrapasiya1?style=social)
+
+Contact: [Email me](kamaltrapasiya97@gmail.com)
+
+---
+
+## Future Ideas
+
+
 
 ---
 
