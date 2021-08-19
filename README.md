@@ -25,10 +25,13 @@ Following sections will help you to navigate to any section.
 - [Motivation](#motivation)
 - [Dependencies](#dependencies)
 - [Platform](#platform)
+- [Dataset](#dataset)
+- [Kaolin: A PyTorch Framework](#kaolin: a pyTorch framework)
+- [Graph Convolutional Networks](#graph convolutional networks)
+- [Results](#results)
+- [Support](#support)
 - [License](#license)
 - [References](#references)
-
-
 
 ---
 
@@ -158,12 +161,6 @@ I have experimented with various 3D methods and techniques, but a proposed techn
 ![twitter](https://img.shields.io/twitter/follow/kamaltrapasiya1?style=social)
 
 Contact: [Email me](kamaltrapasiya97@gmail.com)
-
----
-
-## Future Ideas
-
-
 
 ---
 
