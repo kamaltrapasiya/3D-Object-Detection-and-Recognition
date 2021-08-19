@@ -160,7 +160,7 @@ I have experimented with various 3D methods and techniques, but a proposed techn
 
 ![twitter](https://img.shields.io/twitter/follow/kamaltrapasiya1?style=social)
 
-Contact: [Email me](kamaltrapasiya97@gmail.com)
+Contact: [Email me](mailto:kamaltrapasiya97@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ---
 
