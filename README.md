@@ -164,6 +164,12 @@ Contact: [Email me](mailto:kamaltrapasiya97@gmail.com)
 
 ---
 
+## Future Ideas
+
+There are a lot of things that can be done to improve this project in numerous ways. A main motivation of this project is to achieve maximum accuracy that is challenging in the real-world. So, trying different kinds of 3D architectures of object data is a key to experiment with various results and outputs. Building and training models with different neural networks is also an idea to come up with different results in order to analyze different aspects.
+
+---
+
 ## License
 
 MIT License
