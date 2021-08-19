@@ -30,6 +30,7 @@ Following sections will help you to navigate to any section.
 - [Graph Convolutional Networks](#Graph-Convolutional-Networks)
 - [Results](#results)
 - [Support](#support)
+- [Future Ideas](#future-ideas)
 - [License](#license)
 - [References](#references)
 
